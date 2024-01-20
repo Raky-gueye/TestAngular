@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;  
+       background-color: rgba(238, 241, 245, 0.904);
+}
+.app-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.content-container{
+    
+    display: flex;
+}
+
+.main-content{
+    flex: 1;
+    overflow: auto;
+    margin-left: 200px;
+
+}

@@ -1,0 +1,27 @@
+.mat-toolbar {
+    height: 200px;
+    background-color: rgba(238, 241, 245, 0.904);
+    display: flex;
+    justify-content: space-between;
+  }
+  .mat-fab {
+    .logo{
+        background-size: cover;
+        height: 50px;
+        border-radius: 10%;
+        border: none;
+      
+
+
+
+    }
+    .icon{
+        background-size: cover;
+        height: 40px;
+        border-radius: 10%;
+        border: none;
+
+    }
+
+  }
+  
